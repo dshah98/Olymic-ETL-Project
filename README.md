@@ -1,7 +1,7 @@
 # Olympic ETL Project
 
 ## Overview
-The "Tokyo Olympic Analysis" project leverages data from Kaggle to perform in-depth ETL analysis of the Tokyo Olympics. The data is stored in a Git repository and processed using various **Azure** services including  **`Azure Storage`**, **`Data Factory`**, **`Databricks`**, and **`Synapse Analytics`**.
+The "Olmpic ETL Project" project leverages data from Kaggle to perform in-depth ETL analysis of the Tokyo Olympics. The data is stored in a Git repository and processed using various **Azure** services including  **`Azure Storage`**, **`Data Factory`**, **`Databricks`**, and **`Synapse Analytics`**.
 
 ## Architecture
 ![alt Storage](https://github.com/dshah98/Olympic-ETL-Project/blob/main/images/architecture.png)  <br/> <br/>
