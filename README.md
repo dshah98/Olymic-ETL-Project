@@ -60,4 +60,3 @@ The "Tokyo Olympic Analysis" project leverages data from Kaggle to perform in-de
 
 ## Contact
    For questions or feedback, please reach out to [Portfolio](https://dshah98.github.io/).
-   ![image](https://github.com/dshah98/Olymic-ETL-Project/assets/52554911/331932b4-0c5a-4d5e-939a-159f68b5d076)
