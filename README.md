@@ -53,11 +53,11 @@ The "Tokyo Olympic Analysis" project leverages data from Kaggle to perform in-de
    [Visit the Synpanse SQL Query](https://github.com/dshah98/Olympic-ETL-Project/blob/main/Synapse%20SQL%20Query.sql).
 
 ## Data Sources
-The project uses data from Kaggle, accessed through an API in raw format.
-[Data from Github](https://github.com/dshah98/Olympic-ETL-Project/tree/main/data) - 
-[Kaggle](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
+   The project uses data from Kaggle, accessed through an API in raw format.
+   [Data from Github](https://github.com/dshah98/Olympic-ETL-Project/tree/main/data) - 
+   [Kaggle](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
 
 
 ## Contact
-For questions or feedback, please reach out to [Portfolio](https://dshah98.github.io/).
-![image](https://github.com/dshah98/Olymic-ETL-Project/assets/52554911/331932b4-0c5a-4d5e-939a-159f68b5d076)
+   For questions or feedback, please reach out to [Portfolio](https://dshah98.github.io/).
+   ![image](https://github.com/dshah98/Olymic-ETL-Project/assets/52554911/331932b4-0c5a-4d5e-939a-159f68b5d076)
